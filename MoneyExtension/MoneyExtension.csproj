@@ -19,6 +19,6 @@
     <Summary>Pacote para converter decimal em inteiro</Summary>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="..\Media\icon.png" Pack="true" PackagePath="\" />
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
 </Project>
